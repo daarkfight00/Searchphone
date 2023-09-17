@@ -1,32 +1,69 @@
-# Search-phone_number-Information
-## Installation Tutorial for Kali Linux
 
-<div align="center">
-  <img src="https://www.generacionyrd.com/wp-content/uploads/2020/08/KALI-LINUX.jpg" alt="Kali Linux" width="200"/>
-</div>
+# Searchphone
 
-Follow these steps to install and use the Discord Nitro Generator on your Kali Linux system:
+A brief description of what this project does and who it's for
 
-<h2 align="left">1. Update your package list:</h2>
-<h4 align="left">sudo apt update</h3>
-<h4 align="left">sudo apt upgrade</h3>
-<h2 align="left">2. Install pip3:</h2>
-<h4 align="left">sudo apt-get install pip3</h3>
-<h2 align="left">3. Install Python3:</h2>
-<h4 align="left">sudo apt-get install python3</h3>
-<h2 align="left">4. Install Git:</h2>
-<h4 align="left">sudo apt-get install git</h3>
-<h2 align="left">5. Clone the Discord Nitro Generator repository:</h2>
-<h4 align="left">git clone https://github.com/daarkfight00/Searchphone.git</h3>
-<h2 align="left">6. Navigate to the project directory:</h2>
-<h4 align="left">cd Searchphone</h3>
-<h2 align="left">7. Install the required Python packages:</h2>
-<h4 align="left">pip3 install -r requirements.txt</h3>
-<h2 align="left">8. Run the tool:</h2>
-<h4 align="left">python3 main.py</h3>
 
-<h3 align="left">For support, contact me on my social:</h3>
-<p align="left">
-<a href="https://twitter.com/daark_fighter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daark_fighter" height="30" width="40" /></a>
-<a href="https://discord.gg/cZxBaJ32yk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cZxBaJ32yk" height="30" width="40" /></a>
-</p>
+## Authors
+
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+
+
+## Installation for kali linux
+
+Upgrade your system
+```bash
+sudo apt update
+sudo apt upgrade
+```
+Install pip3
+```bash
+sudo apt-get install pip3
+```
+Install Python3
+```bash
+sudo apt-get install python3
+```
+Install git
+```bash
+sudo apt-get install git
+```
+Clone the repository
+```bash
+git clone https://github.com/daarkfight00/Searchphone.git
+```
+Navigate to the project directory
+```bash
+cd Searchphone
+```
+Install the required Python packages:
+```bash
+pip3 install -r requirements.txt
+```
+Run the tool
+```bash
+python3 main.py
+```
+
+## Feedback
+
+If you have any feedback, please reach out to us at https://twitter.com/daark_fighter
+
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
