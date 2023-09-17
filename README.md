@@ -11,9 +11,9 @@
 
 - sudo apt-get install python3
 
-- git clone https://github.com/daarkfight00/Discord-Nitro-Generator.git
+- git clone https://github.com/daarkfight00/Searchphone.git
 
-- cd Discord-Nitro-Generator
+- cd Searchphone
 
 - pip install -r requirements.txt (if u don't have pip, type in ur terminal sudo apt-get install pip)
 
