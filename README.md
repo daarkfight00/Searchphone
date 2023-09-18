@@ -55,7 +55,7 @@ python3 main.py
 
 ## Feedback
 
-If you have any feedback, please reach out to us at https://twitter.com/daark_fighter
+If you have any feedback, please reach out to me at https://discord.gg/cZxBaJ32yk
 
 
 
